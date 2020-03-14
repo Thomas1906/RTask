@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTask", "RTask\RTask.csproj", "{2261BA4B-33B6-4655-B2FA-8D64683CD282}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTask.Tests", "RTask.Tests\RTask.Tests.csproj", "{CBD0CEDE-4702-4476-9E4B-31EBEF69120B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2261BA4B-33B6-4655-B2FA-8D64683CD282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2261BA4B-33B6-4655-B2FA-8D64683CD282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2261BA4B-33B6-4655-B2FA-8D64683CD282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2261BA4B-33B6-4655-B2FA-8D64683CD282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD0CEDE-4702-4476-9E4B-31EBEF69120B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD0CEDE-4702-4476-9E4B-31EBEF69120B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD0CEDE-4702-4476-9E4B-31EBEF69120B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD0CEDE-4702-4476-9E4B-31EBEF69120B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6284A568-7EEF-4F6B-8C8D-7E83F4DCF79D}
+	EndGlobalSection
+EndGlobal
